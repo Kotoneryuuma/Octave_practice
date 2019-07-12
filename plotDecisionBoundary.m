@@ -8,6 +8,7 @@ function plotDecisionBoundary(theta, X, y)
 %      intercept.
 %   2) MxN, N>3 matrix, where the first column is all-ones
 
+
 % Plot Data
 plotData(X(:,2:3), y);
 hold on
